@@ -1,5 +1,5 @@
 # Predicting Food Inspection Outcomes in Chicago
-**CS109A (Fall 2016) Final Project**<br>
+**AC209A (Fall 2016) Final Project**<br>
 Calvin J Chiew, Angelo Kastroulis, Tim Hagmann<br>
 TF: Taylor Names<br>
 
